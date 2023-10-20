@@ -1,6 +1,6 @@
 METADATA =\
 {
-	'name': 'PRIVATE SOFTWARE',
+	'name': 'PREMIUM PRIVATE SOFTWARE',
 	'description': 'Next generation face swapper and enhancer',
 	'version': '1.1.0',
 	'license': 'MIT',
