@@ -38,7 +38,7 @@ def clear_frame_processor() -> None:
 
 def pre_check() -> bool:
 	download_directory_path = resolve_relative_path('../.assets/models')
-	conditional_download(download_directory_path, [ 'https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth' ])
+	conditional_download(download_directory_path, [ 'https://github.com/facefusion/facefusion-assets/releases/download/models/gfpgan_1.4.onnx' ])
 	return True
 
 
